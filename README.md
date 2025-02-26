@@ -24,14 +24,13 @@ Financial institutions face challenges in **customer segmentation and credit ris
 - **Improve Data Quality**: Address missing data issues in future datasets to enhance model accuracy and reliability.
 - **Monitor Model Performance**: Regularly retrain and evaluate models to adapt to changing customer behaviors.
 
-Next Steps
-
-Deploy the Model: Integrate the decision tree model into a bank’s customer relationship management (CRM) system for real-time predictions.
-
-Feature Expansion: Explore additional features such as social media interactions or real-time financial transactions to improve predictive accuracy.
-
-A/B Testing: Conduct live testing of the model’s recommendations in marketing campaigns to measure effectiveness.
-
-Scalability & Automation: Develop automated workflows for continuous model retraining and performance monitoring.
+## Next Steps
+- **Deploy the Model**: Integrate the decision tree model into a bank’s customer relationship management (CRM) system for real-time predictions.
+- **Feature Expansion**: Explore additional features such as social media interactions or real-time financial transactions to improve predictive accuracy.
+- **A/B Testing**: Conduct live testing of the model’s recommendations in marketing campaigns to measure effectiveness.
+- **Scalability & Automation**: Develop automated workflows for continuous model retraining and performance monitoring.
 
 By applying data mining techniques effectively, financial institutions can enhance customer targeting, improve marketing ROI, and increase subscription rates for financial products.
+
+## Technology & Tools Used
+SAS Enterprise Miner
